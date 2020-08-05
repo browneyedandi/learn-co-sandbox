@@ -1,11 +1,16 @@
+'This is data, it is a string. Strings start with " "'
 
-Hi! 👋
+"Part of being data, or a string, is that ruby doesn't interpret it."
 
-You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
+puts 1+1
+puts "1+1"
 
-*IMPORTANT*
-Saving varies by the type of work you are doing:
--- Most of the work you do in the Sandbox is automatically saved on your behalf to the `learn-co-sandbox` repository in your GitHub account. Please DO NOT touch this repository in GitHub. Doing so will affect your Sandbox experience, and potentially cause your work to fall out of sync.
--- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
+example = "The word 'example' is equal to this sentence, it's a named variable."
 
-To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
+puts example
+puts example
+puts example
+
+puts "variables are any previously undefined word that"
+puts "starts with a lowercase letter."
+
